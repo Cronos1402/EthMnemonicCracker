@@ -4,7 +4,7 @@ Ethereum Address Wallet Generator With Private Key From Mnemonic and checks the 
 ---
 Ethereum Address Wallet Generated With Private Key From Mnemonic and check Value (Balance , transaction) Without API
 ---
-EthmnemoniccrackV2.py : Create Mnemonic and from_mnemonic Generated Private Key and Address.
+EthcrackV2.py : Create Mnemonic and from_mnemonic Generated Private Key and Address.
 ## Mnemonic Ethereum Generated and Check Online :
 
 First Install All Package With Common or Easy installing File:
